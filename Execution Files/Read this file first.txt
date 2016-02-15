@@ -1,0 +1,19 @@
+READ THIS BEFORE EXECUTING!!!
+
+Pre-requisites:
+->Install MatLAB enviroment as shown in install.txt
+
+PLEASE NOTE! Due to the limitations of the remote MatLAB enviroment, execution takes a very long time when executing an application (exe file). This is solved by repeatedly executing cases WITHIN THE SAME WINDOW (without closing). This can not be done with the bat file.
+
+The bat file needs to be executed via a command promt for the same session to be kept.
+
+Instructions:
+
+-> Open command prompt on windows.
+-> Navigate to the path of the bat file i.e. cd <directory>\paulOSSubmission
+-> execute the_wise_man_of_babylon.bat
+-> Enter parameters as asked
+
+The second execution can be done by executing the_wise_man_of_babylon.bat again. The runtime is SIGNIFICANTLY shorted with consecutive runs.
+
+We know this is a small inconvenience, but we hope you understand that we tried to find a hack for this MatLAB problem.
